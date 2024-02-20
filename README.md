@@ -1,2 +1,2 @@
-# coffeewithmanny.github.io
+# cafeconmanolo.github.io
 A coffee website
